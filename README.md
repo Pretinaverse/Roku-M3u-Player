@@ -6,6 +6,7 @@ Si quieren usar otras listas, simplemente descompriman el archivo zip y modifiqu
 Para instalar en roku solo tienen que tener activado el modo desarrollador e instalar el archivo zip desde el computador. Para más detalles sobre el proceso, pueden seguir las guías en los siguientes enlaces:
 
 https://m3u.cl/roku.php
+
 https://ipectv.com/como-instalar-smarters-pro-en-roku/
 
 Los zip que aparecen en esas páginas para ver iptv no funcionan en roku. Tienen que usar el zip que les proveo aquí.
